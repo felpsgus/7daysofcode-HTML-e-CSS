@@ -29,4 +29,4 @@ Desenvolver a seção dos depoimentos e estilizar com CSS.
 Desenvolver o rodapé da página e estilizar com CSS.
 
 
-**[Veja o resultado final]()**
+**[Veja o resultado final](https://felpsgus.github.io/7daysofcode-HTML-e-CSS/)**
